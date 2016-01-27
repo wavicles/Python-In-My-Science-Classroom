@@ -6,3 +6,8 @@ This Repository is inspired by the work of Dr. Ajith Kumar B.P., a senior scient
 Most of the programs are written by Dr. Ajith Kumar
 
 Source: http://www.iuac.res.in/~elab/phoenix/python4schools/
+
+
+Python book By Dr Ajith Kumar B P
+
+http://www.iuac.res.in/~elab/phoenix/python4schools/Python-for-Education.pdf
