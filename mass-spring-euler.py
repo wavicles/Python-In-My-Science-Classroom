@@ -1,4 +1,5 @@
 #Solving the mass spring problem using Euler integration
+# Author : Dr Ajith Kumar B P
 
 from pylab import *
 
