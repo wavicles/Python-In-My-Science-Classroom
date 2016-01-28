@@ -1,3 +1,4 @@
+# Author : Ajith Kumar B P
 # Charged particle trajectory under electric and magnetic fields
 from pylab import *
 from scipy import integrate
