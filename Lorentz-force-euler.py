@@ -1,3 +1,5 @@
+Author: Ajith Kumar B P
+
 from pylab import *
 
 m = 2.0		# Mass of the particle
